@@ -4,6 +4,6 @@
   },
   "scripts": {
     "test": "echo 'Demo Test'",
-    "build": "echo 'Demo build"
+    "build": "echo 'Demo build'"
   }
 }
